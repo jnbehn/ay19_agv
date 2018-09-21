@@ -1,2 +1,3 @@
 # ay19_agv
-Base repo for AY19 AGV projects (XE401)
+
+This repo contains code and videos from our AGV project.
